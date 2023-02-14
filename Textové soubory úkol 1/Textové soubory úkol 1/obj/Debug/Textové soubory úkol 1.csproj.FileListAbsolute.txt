@@ -1,0 +1,10 @@
+D:\Antonín Štolfa\PRG\C#\Textové soubory úkol 1\Textové soubory úkol 1\obj\Debug\Textové soubory úkol 1.csproj.AssemblyReference.cache
+D:\Antonín Štolfa\PRG\C#\Textové soubory úkol 1\Textové soubory úkol 1\obj\Debug\Textové_soubory_úkol_1.Properties.Resources.resources
+D:\Antonín Štolfa\PRG\C#\Textové soubory úkol 1\Textové soubory úkol 1\obj\Debug\Textové soubory úkol 1.csproj.GenerateResource.cache
+D:\Antonín Štolfa\PRG\C#\Textové soubory úkol 1\Textové soubory úkol 1\obj\Debug\Textové soubory úkol 1.csproj.CoreCompileInputs.cache
+D:\Antonín Štolfa\PRG\C#\Textové soubory úkol 1\Textové soubory úkol 1\bin\Debug\Textové soubory úkol 1.exe.config
+D:\Antonín Štolfa\PRG\C#\Textové soubory úkol 1\Textové soubory úkol 1\bin\Debug\Textové soubory úkol 1.exe
+D:\Antonín Štolfa\PRG\C#\Textové soubory úkol 1\Textové soubory úkol 1\bin\Debug\Textové soubory úkol 1.pdb
+D:\Antonín Štolfa\PRG\C#\Textové soubory úkol 1\Textové soubory úkol 1\obj\Debug\Textové soubory úkol 1.exe
+D:\Antonín Štolfa\PRG\C#\Textové soubory úkol 1\Textové soubory úkol 1\obj\Debug\Textové soubory úkol 1.pdb
+D:\Antonín Štolfa\PRG\C#\Textové soubory úkol 1\Textové soubory úkol 1\obj\Debug\Textové_soubory_úkol_1.Form1.resources
